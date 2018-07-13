@@ -2,7 +2,7 @@
 freeCodeCamp Backend Project: Apis and Microservices Projects - URL Shortener Microservice
 
 To use:
-```bash
+```console
  git clone https://github.com/Jobayer-Ahmed/URL-Shortener-Microservice.git //clone repository
  cd URL-Shortener-Microservice //goto the project directory.
  npm install //install dependencies
